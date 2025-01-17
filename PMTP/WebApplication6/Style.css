@@ -1,0 +1,82 @@
+﻿
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+ #formB {
+    font-display:auto;
+    font-size:50px;
+   
+}
+
+footer {
+    #title
+{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 50px;
+}
+}
+
+
+img {
+    margin-bottom: 40px;
+    margin-top: 40px;
+    max-width: 100%
+}
+
+#p {
+    margin:30px 30px; 
+    font-size: 40px;
+    font-weight: 500;
+    position: relative;
+    right: 0;
+    top: 50%;
+    justify-content:center;
+}
+
+button {
+    padding: 50px 50px;
+    font-size: 15px;
+    cursor: pointer;
+    border: 2px solid #ccc;
+    background-color: #f4f4f4;
+    border-radius: 2px;
+    transition: background-color 0.5s ease;
+}
+
+
+button:hover {
+    background-color: #ddd;
+}
+
+
+#TextArea1 {
+    border-radius: 5px;
+    border:1.2px solid;
+    padding:10px;
+}
+
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:70%;
+}
+
+.buttons-wrapper{
+    display:flex;
+    gap:4px;
+    
+}
+.buttons-wrapper a{
+    display:block;
+}
+.buttons-wrapper button{
+    height:100%;
+}
+
+
+
